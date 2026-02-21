@@ -1,0 +1,51 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace;
+        fill: #e6edf3;
+        font-size: 36px;
+        font-weight: 700;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace;
+        fill: #8b949e;
+        font-size: 16px;
+      }
+      .cursor {
+        fill: #58a6ff;
+      }
+
+      .title { animation: fadeSlideIn 0.8s ease forwards; opacity: 0; }
+      .subtitle { animation: fadeSlideIn 0.8s ease 0.4s forwards; opacity: 0; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .underline { animation: growWidth 1s ease 0.2s forwards; transform-origin: left; }
+
+      @keyframes fadeSlideIn {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+      @keyframes growWidth {
+        from { transform: scaleX(0); }
+        to   { transform: scaleX(1); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background transparent -->
+  <rect width="860" height="120" fill="none"/>
+
+  <!-- Greeting text -->
+  <text x="0" y="52" class="title">Hi there</text>
+  <text x="200" y="52" class="cursor" font-size="36" font-family="monospace">|</text>
+
+  <!-- Underline -->
+  <rect x="0" y="62" width="860" height="1" fill="#30363d" class="underline"/>
+
+  <!-- Subtitle -->
+  <text x="0" y="92" class="subtitle">Jay Joshi · gaminbhoot · he/him</text>
+</svg>

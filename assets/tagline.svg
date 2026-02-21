@@ -1,0 +1,26 @@
+<svg width="860" height="50" viewBox="0 0 860 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace;
+        fill: #8b949e;
+        font-size: 15px;
+      }
+      .word1 { animation: fadeIn 0.5s ease 0.2s both; }
+      .word2 { animation: fadeIn 0.5s ease 0.6s both; }
+      .word3 { animation: fadeIn 0.5s ease 1.0s both; }
+      .word4 { animation: fadeIn 0.5s ease 1.4s both; }
+      .word5 { animation: fadeIn 0.5s ease 1.8s both; }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+  <rect width="860" height="50" fill="none"/>
+  <text class="word1" x="0"   y="28">Developer.</text>
+  <text class="word2" x="98"  y="28" fill="#58a6ff">Designer.</text>
+  <text class="word3" x="192" y="28">ML enthusiast.</text>
+  <text class="word4" x="330" y="28">Open source contributor.</text>
+  <text class="word5" x="538" y="28" fill="#3fb950">Building cool things.</text>
+</svg>
