@@ -1,4 +1,14 @@
-# Hi there
+<div align="center">
+
+<!-- Animated header SVG - save as assets/header.svg in your repo -->
+![Header](assets/header.svg)
+
+<!-- Animated tagline SVG - save as assets/tagline.svg in your repo -->
+![Tagline](assets/tagline.svg)
+
+</div>
+
+---
 
 ## Socials
 
