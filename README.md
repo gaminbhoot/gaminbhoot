@@ -4,6 +4,8 @@
 
 ![Tagline](assets/tagline.svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=CS+undergrad+%40+Amity+University+%F0%9F%92%BB;Building+cool+stuff+with+React+%26+Python+%F0%9F%9A%80;Somewhere+between+debugging+%26+deploying+%F0%9F%8C%99)](https://github.com/gaminbhoot)
+
 </div>
 
 ## Tech Stack
@@ -20,17 +22,25 @@
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat&logo=figma&logoColor=white&labelColor=0d1117) ![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat&logo=Canva&logoColor=white&labelColor=0d1117) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-0d1117?style=flat&logo=Adobe%20Lightroom&logoColor=white&labelColor=0d1117) ![Framer](https://img.shields.io/badge/Framer-0d1117?style=flat&logo=framer&logoColor=white&labelColor=0d1117)
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360"/>
+</div>
+
+---
+
 ![Snake animation](https://raw.githubusercontent.com/gaminbhoot/gaminbhoot/output/github-snake-dark.svg)
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gaminbhoot&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://stats.jayjoshi.online/api?username=gaminbhoot&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=gaminbhoot&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaminbhoot&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://stats.jayjoshi.online/api/top-langs/?username=gaminbhoot&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=gaminbhoot&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+![](https://trophies.jayjoshi.online/?username=gaminbhoot&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 ### Top Contributed Repos
 
@@ -43,3 +53,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat&logo=Instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/Gaminbhoot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gaminbhoot) [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat&logo=YouTube&logoColor=white&labelColor=0d1117)](https://youtube.com/@Gaminbhoot) [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jay05.joshi@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=gaminbhoot&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
+</div>
