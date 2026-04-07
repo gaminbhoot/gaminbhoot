@@ -34,13 +34,12 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gaminbhoot&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=gaminbhoot&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaminbhoot&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://stats.jayjoshi.online/)
+
 
 ## GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=gaminbhoot&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+![](https://trophies.jayjoshi.online/)
 
 ### Top Contributed Repos
 
