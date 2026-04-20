@@ -34,22 +34,31 @@
 
 ## GitHub Stats
 
-![](https://stats.jayjoshi.online/)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaminbhoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaminbhoot&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gaminbhoot&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=gaminbhoot&theme=tokyonight&hide_border=true)
+
+</div>
 
 
-## GitHub Trophies
-
-![](https://trophies.jayjoshi.online/)
-
-### Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=gaminbhoot&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-
 ## Socials
 
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_jayjoshi.online-Here's_my_work_→-6E40C9?style=for-the-badge)](https://jayjoshi.online)
+
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat&logo=Instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/Gaminbhoot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gaminbhoot) [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat&logo=YouTube&logoColor=white&labelColor=0d1117)](https://youtube.com/@Gaminbhoot) [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jay05.joshi@gmail.com)
+
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=gaminbhoot&icon=0&color=0)](https://visitcount.itsvg.in)
 
