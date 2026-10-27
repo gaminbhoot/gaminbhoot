@@ -47,9 +47,17 @@
 
 </div>
 
+## AI Coding Stats
 
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/gaminbhoot/svg)](https://tokscale.ai/u/gaminbhoot)
+
+</div>
 
 ---
+
+
 ## Socials
 
 <div align="center">
