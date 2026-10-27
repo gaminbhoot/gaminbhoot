@@ -47,11 +47,12 @@
 
 </div>
 
-## AI Coding Stats
+
+## AI Coding Activity
 
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/gaminbhoot/svg)](https://tokscale.ai/u/gaminbhoot)
+<img src="https://tokscale.ai/api/embed/gaminbhoot/svg?template=graph&theme=dark" alt="Tokscale AI Coding Activity Graph" />
 
 </div>
 
