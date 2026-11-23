@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gaminbhoot/gaminbhoot/main/koi/koi.gif" alt="Git Koi" width="400"/>
+<img src="https://raw.githubusercontent.com/gaminbhoot/gaminbhoot/main/koi/koi.gif" alt="Git Koi" width="200"/>
 
 </div>
 
