@@ -54,7 +54,7 @@
 <div align="center">
 
 <!-- paste your git koi image/SVG link below -->
-<img src="YOUR_GIT_KOI_URL_HERE" alt="Git Koi" width="100%"/>
+<img src="koi/koi.gif" alt="Git Koi" width="256"/>
 
 </div>
 
