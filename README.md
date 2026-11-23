@@ -53,12 +53,9 @@
 
 <div align="center">
 
-<!-- paste your git koi image/SVG link below -->
-<img src="koi/koi.gif" alt="Git Koi" width="256"/>
+<img src="https://raw.githubusercontent.com/gaminbhoot/gaminbhoot/main/koi/koi.gif" alt="Git Koi" width="400"/>
 
 </div>
-
----
 
 ## Socials
 
