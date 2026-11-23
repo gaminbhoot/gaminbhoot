@@ -53,10 +53,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gaminbhoot/gaminbhoot/main/koi/koi.gif" alt="Git Koi" width="200"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="koi/koi-night.gif" />
+  <img src="koi/koi.gif" width="256" alt="Git Koi" />
+</picture>
 
 </div>
-
 ## Socials
 
 <div align="center">
