@@ -59,6 +59,9 @@
 </picture>
 
 </div>
+
+---
+
 ## Socials
 
 <div align="center">
